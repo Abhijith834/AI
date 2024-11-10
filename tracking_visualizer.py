@@ -5,7 +5,6 @@ Created on Tue Nov 28 15:38:02 2023
 @author: Abhijith Saji
 """
 
-# tracking_visualizer.py
 import cv2
 import mediapipe as mp
 
