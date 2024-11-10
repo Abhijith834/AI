@@ -5,7 +5,6 @@ Created on Tue Nov 28 15:30:18 2023
 @author: Abhijith Saji
 """
 
-# tracking.py
 import mediapipe as mp
 
 class HandTracker:
